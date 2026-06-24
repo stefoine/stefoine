@@ -4,7 +4,7 @@
 
 <h3 align="center">Simple girly girl who loves makeup 💄✨</h3>
 
-### 🌷 About Me
+### 🌻 About Me
 
 - 🎮 Enjoys gaming during free time
 - 🎬 Loves Chinese dramas, movies, and series
@@ -12,11 +12,11 @@
 - 📚 Always learning and improving
 - 💅🏼 Beauty enthusiast
 
-### Interests
+### 💛 Interests
 
 `Technology` `Makeup` `Gaming` `Movies` `Travel` `Social Media`
 
-### 🛠 Tech Stack
+### 💻 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,figma" />
