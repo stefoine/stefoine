@@ -5,12 +5,21 @@
 <h3 align="center">Simple girly girl who loves makeup 💄✨</h3>
 
 ### 🌻 About Me
-
 - 🎮 Enjoys gaming during free time
 - 🎬 Loves Chinese dramas, movies, and series
 - ✈️ Dreams of traveling and exploring new places
 - 📚 Always learning and improving
 - 💅🏼 Beauty enthusiast
+
+### 🎵 My Favorite Song
+
+<a href="https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc3a2Nqd245M2hoaDVqb283NXE4M245bTQ5azZycGY3eHFvdzVyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mToEuhzyJsLW1EQ3bC/giphy.gif"
+    alt="Listen on Spotify"
+    width="180"
+  />
+</a>
 
 ### 💛 Interests
 
