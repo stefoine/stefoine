@@ -22,6 +22,9 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,figma" />
 </p>
 
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=stefoine&show_icons=true&text_color=ECB65F&title_color=FFBF00&icon_color=E87F24&bg_color=FFF8DC)
+
 ---
 
 <p align="center">
