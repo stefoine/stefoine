@@ -10,6 +10,7 @@
 - 🎬 Loves Chinese dramas, movies, and series
 - ✈️ Dreams of traveling and exploring new places
 - 📚 Always learning and improving
+- 💅🏼 Beauty enthusiast
 
 ### Interests
 
